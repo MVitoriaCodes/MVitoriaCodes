@@ -21,7 +21,7 @@ Me chamo Maria Vitória, tenho 16 anos e sou natural de Guarujá. Estou cursando
     </a>
     </p>
 
-    ### 💻 Linguagens e Tecnologias
+## 💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -47,7 +47,8 @@ Me chamo Maria Vitória, tenho 16 anos e sou natural de Guarujá. Estou cursando
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-### 📊 Estatísticas
+
+## 📊 Estatísticas
 
 <p>
   <img 
