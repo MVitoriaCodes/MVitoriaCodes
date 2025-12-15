@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Iniciante`**
 
-Me chamo Maria Vitória, tenho 16 anos e sou natural de Guarujá. Estou cursando o segundo ano do ensino médio e cursando informática e inglês. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PROZ. Sou apaixonada por tecnologia e gosto bastante de aprender coisas novas.  
+Me chamo Maria Vitória. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PROZ. Sou apaixonada por tecnologia e gosto bastante de aprender coisas novas.  
 
 <p align="left">
     <a href="https://github.com/MVitoriaCodes?tab=repositories&sort=stargazers">
