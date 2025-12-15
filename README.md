@@ -8,7 +8,7 @@
 
 
 ## **🍰 About me**
-<img align="left" width="400" alt="Image" src="https://github.com/user-attachments/assets/e04035be-3860-46b3-9d3b-e575d7fb210f" />
+<img align="left" width="100" alt="Image" src="https://github.com/user-attachments/assets/e04035be-3860-46b3-9d3b-e575d7fb210f" />
 Heya! I’m a student studying to become a full stack developer. I love reading and writing books, dreaming freely, listening to music, playing cozy games, watching anime, and finding beauty in little things — like butterflies
 <br><br>
 
