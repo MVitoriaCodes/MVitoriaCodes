@@ -1,5 +1,12 @@
 <h1 align="center">𝗦𝗪𝗘𝗘𝗧𝗜𝗘´𝗦 𝗣𝗥𝗢𝗙𝗜𝗟𝗘</h1>
 
+
+<img width="2000" height="780" alt="Image" src="https://github.com/user-attachments/assets/c9a550bc-0719-4e84-b50b-754cc13807c8" />
+
+
+
+
+
 **`Desenvolvedora Iniciante`**
 
 Me chamo Maria Vitória. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PROZ. Sou apaixonada por tecnologia e gosto bastante de aprender coisas novas.  
