@@ -84,10 +84,10 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 
 
 
-<br/>
+
 
 ## 📊 Github Stats
-
+<br>
 <p>
   <img 
     align="center" 
