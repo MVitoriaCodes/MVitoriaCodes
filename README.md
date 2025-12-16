@@ -79,7 +79,7 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 
 ## 💗 Linguistic Skills
 <br>
-<p align="left">
+<p align="center">
   <img
     src="https://flagcdn.com/w80/br.png"
     alt="Brazil"
