@@ -19,7 +19,7 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 
 <br>
 
-<p align="center">
+<p align="left">
   <img 
     alt="HTML"
     title="HTML"
@@ -79,7 +79,7 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 
 ## 💗 Linguistic Skills
 <br>
-<p align="center">
+<p align="left">
   <img
     src="https://flagcdn.com/w80/br.png"
     alt="Brazil"
