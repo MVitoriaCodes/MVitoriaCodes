@@ -19,24 +19,91 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+
+## 🌼 Languages & Technologies
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="html"
+    title="html" 
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="css" 
+    title="css"
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+           
 />
+
+<img 
+    align="left" 
+    alt="js" 
+    title="js"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="python" 
+    title="python"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="mysql" 
+    title="mysql"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="flask" 
+    title="flask"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="jquery" 
+    title="jquery"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="windows" 
+    title="windows"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
+/>
+
+
+<img 
+    align="left" 
+    alt="vscode" 
+    title="vscode"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain.svg"
+/>
+
 
 
 <br/>
