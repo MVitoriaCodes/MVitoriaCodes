@@ -82,7 +82,14 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 </p>
 
 
+## 💗 Linguistic Skills
 
+  <img 
+    alt="br"
+    title="br"
+    width="50px"
+    src="https://flagcdn.com/w40/br.png"
+  />
 
 
 
