@@ -83,7 +83,8 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 
 
 ## 💗 Linguistic Skills
-
+<br>
+<p>
   <img 
     alt="br"
     title="br"
@@ -91,7 +92,14 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
     src="https://flagcdn.com/w40/br.png"
   />
 
-
+ <img 
+    alt="br"
+    title="br"
+    width="50px"
+    src="https://flagcdn.com/w40/br.png](https://flagcdn.com/w40/us.png"
+  />
+</p>
+<br>
 
 ## 📊 Github Stats
 <br>
