@@ -84,7 +84,7 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 
 ## 💗 Linguistic Skills
 <br>
-<p>
+<p align="left">
   <img 
     alt="br"
     title="br"
