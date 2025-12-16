@@ -89,12 +89,24 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
     src="https://flagcdn.com/w40/br.png"
     alt="Brazil"
     title="Portuguese"
-    style="margin-right: 10px;"
+    width="48"
+    style="
+      border-radius: 50%;
+      border: 2px solid #ffb6d9;
+      padding: 4px;
+      margin-right: 20px;
+    "
   />
   <img
     src="https://flagcdn.com/w40/us.png"
     alt="United States"
     title="English"
+    width="48"
+    style="
+      border-radius: 50%;
+      border: 2px solid #ffb6d9;
+      padding: 4px;
+    "
   />
 </p>
 
