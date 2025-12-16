@@ -85,10 +85,19 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 ## 💗 Linguistic Skills
 <br>
 <p align="left">
-  <img src="https://flagcdn.com/w48/br.png" width="48" alt="Brazil" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://flagcdn.com/w48/us.png" width="48" alt="United States" />
+  <img
+    src="https://flagcdn.com/w40/br.png"
+    alt="Brazil"
+    title="Portuguese"
+    style="margin-right: 10px;"
+  />
+  <img
+    src="https://flagcdn.com/w40/us.png"
+    alt="United States"
+    title="English"
+  />
 </p>
+
 
 
 
