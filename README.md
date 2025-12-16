@@ -85,20 +85,19 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 ## 💗 Linguistic Skills
 <br>
 <p align="left">
-  <img 
-    alt="br"
-    title="br"
-    width="50px"
+  <img
     src="https://flagcdn.com/w40/br.png"
+    alt="Brazil"
+    title="Portuguese"
+    style="margin-right: 10px;"
   />
-
- <img 
-    alt="us"
-    title="us"
-    width="50px"
+  <img
     src="https://flagcdn.com/w40/us.png"
+    alt="United States"
+    title="English"
   />
 </p>
+
 <br>
 
 ## 📊 Github Stats
