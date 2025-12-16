@@ -22,6 +22,8 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 
 ## 🌼 Languages & Technologies
 
+<br>
+
 <p align="left">
   <img 
     alt="HTML"
@@ -81,10 +83,10 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 
 
 
-<br/>
+
 <br/>
 
-## 📊 Estatísticas
+## 📊 Github Stats
 
 <p>
   <img 
@@ -92,6 +94,6 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
     alt="GitHub Stats" 
     height="400" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SweetDwrks&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=SweetDwrks&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
