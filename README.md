@@ -93,10 +93,10 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
   />
 
  <img 
-    alt="br"
-    title="br"
+    alt="us"
+    title="us"
     width="50px"
-    src="https://flagcdn.com/w40/br.png](https://flagcdn.com/w40/us.png"
+    src="https://flagcdn.com/w40/us.png"
   />
 </p>
 <br>
