@@ -19,7 +19,7 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 
 <br>
 
-<p align="left">
+<p align="center">
   <img 
     alt="HTML"
     title="HTML"
