@@ -86,29 +86,20 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 <br>
 <p align="left">
   <img
-    src="https://flagcdn.com/w40/br.png"
+    src="https://flagcdn.com/w48/br.png"
     alt="Brazil"
     title="Portuguese"
     width="48"
-    style="
-      border-radius: 50%;
-      border: 2px solid #ffb6d9;
-      padding: 4px;
-      margin-right: 20px;
-    "
+    style="margin-right: 40px;"
   />
   <img
-    src="https://flagcdn.com/w40/us.png"
+    src="https://flagcdn.com/w48/us.png"
     alt="United States"
     title="English"
     width="48"
-    style="
-      border-radius: 50%;
-      border: 2px solid #ffb6d9;
-      padding: 4px;
-    "
   />
 </p>
+
 
 <br>
 
