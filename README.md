@@ -42,22 +42,14 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
-    height="200" 
+    height="400" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=SweetDwrks&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SweetDwrks&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
