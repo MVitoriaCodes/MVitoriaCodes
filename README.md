@@ -103,8 +103,7 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 <p>
   <img 
     align="center" 
-    alt="GitHub Stats" 
-    width="700"
+    alt="GitHub Stats"
     height="400" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=SweetDwrks&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
