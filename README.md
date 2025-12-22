@@ -100,12 +100,11 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 
 ## 📊 Github Stats
 <br>
-<p>
-  <img 
-    align="center" 
-    alt="GitHub Stats"
-    height="400" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SweetDwrks&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
+##
+
+<div align="center">
+  <a href="https://github.com/SweetDwrks">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SweetDwrks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SweetDwrks&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
