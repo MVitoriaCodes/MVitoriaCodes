@@ -1,7 +1,7 @@
 <h1 align="center">𝗦𝗪𝗘𝗘𝗧𝗜𝗘´𝗦 𝗣𝗥𝗢𝗙𝗜𝗟𝗘</h1>
 
 
-<img width="2000" height="780" alt="Image" src="https://github.com/user-attachments/assets/c9a550bc-0719-4e84-b50b-754cc13807c8" />
+<img width="2000" height="780" alt="Image" src="https://github.com/user-attachments/assets/5a161bd0-0c6f-4792-a27f-aa55d768e42f" />
 
 
 
