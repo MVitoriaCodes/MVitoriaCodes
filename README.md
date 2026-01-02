@@ -77,23 +77,6 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 </p>
 
 
-## 💗 Linguistic Skills
-<br>
-
-<p align="left">
-  <img
-    src="https://flagcdn.com/w80/br.png"
-    alt="Brazil"
-    title="Portuguese"
-    style="margin-right: 10px;"
-  />
-  <img
-    src="https://flagcdn.com/w80/us.png"
-    alt="United States"
-    title="English"
-  />
-</p>
-
 
 
 
